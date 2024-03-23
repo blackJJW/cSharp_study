@@ -17,6 +17,11 @@ namespace HelloWorld
             int number;
             number = 7;
             Console.WriteLine(number);
+
+            Console.WriteLine(1234);
+            Console.WriteLine(3.14F);
+            Console.WriteLine('A');
+            Console.WriteLine("HELLO");
         }
     }
 }
