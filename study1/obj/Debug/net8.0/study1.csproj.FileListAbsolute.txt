@@ -1,0 +1,14 @@
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/study1/bin/Debug/net8.0/study1
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/study1/bin/Debug/net8.0/study1.deps.json
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/study1/bin/Debug/net8.0/study1.runtimeconfig.json
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/study1/bin/Debug/net8.0/study1.dll
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/study1/bin/Debug/net8.0/study1.pdb
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/study1/obj/Debug/net8.0/study1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/study1/obj/Debug/net8.0/study1.AssemblyInfoInputs.cache
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/study1/obj/Debug/net8.0/study1.AssemblyInfo.cs
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/study1/obj/Debug/net8.0/study1.csproj.CoreCompileInputs.cache
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/study1/obj/Debug/net8.0/study1.dll
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/study1/obj/Debug/net8.0/refint/study1.dll
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/study1/obj/Debug/net8.0/study1.pdb
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/study1/obj/Debug/net8.0/study1.genruntimeconfig.cache
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/study1/obj/Debug/net8.0/ref/study1.dll

@@ -1,0 +1,4 @@
+{
+    "dotnet.defaultSolution": "study1.sln",
+    "cmake.configureOnOpen": true
+}
