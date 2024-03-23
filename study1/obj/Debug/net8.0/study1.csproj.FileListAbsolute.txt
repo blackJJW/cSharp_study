@@ -12,3 +12,4 @@
 /Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/study1/obj/Debug/net8.0/study1.pdb
 /Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/study1/obj/Debug/net8.0/study1.genruntimeconfig.cache
 /Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/study1/obj/Debug/net8.0/ref/study1.dll
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/study1/obj/Debug/net8.0/study1.sourcelink.json
