@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VariableNote")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ecd7f6d8cac44ad444e53e38df5293ed80ec458")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8c41c20415bb9e48fc541abbc1e8d2ed1128b56")]
 [assembly: System.Reflection.AssemblyProductAttribute("VariableNote")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VariableNote")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

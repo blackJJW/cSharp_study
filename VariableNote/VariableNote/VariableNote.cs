@@ -24,5 +24,8 @@ class VariableNote
         a = b = c = 100;
 
         Console.WriteLine("{0}, {1}, {2}", a, b, c);
+
+        const int MAX = 100;
+        Console.WriteLine("최댓값 : {0}", MAX);
     }
 }
