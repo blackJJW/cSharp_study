@@ -13,6 +13,10 @@ namespace HelloWorld
             Console.WriteLine("줄\n바꿈");
 
             Console.WriteLine("{0}", "Hello C#");
+
+            int number;
+            number = 7;
+            Console.WriteLine(number);
         }
     }
 }
