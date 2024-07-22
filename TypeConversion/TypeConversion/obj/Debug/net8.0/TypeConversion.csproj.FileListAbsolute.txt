@@ -1,0 +1,15 @@
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/TypeConversion/TypeConversion/bin/Debug/net8.0/TypeConversion
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/TypeConversion/TypeConversion/bin/Debug/net8.0/TypeConversion.deps.json
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/TypeConversion/TypeConversion/bin/Debug/net8.0/TypeConversion.runtimeconfig.json
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/TypeConversion/TypeConversion/bin/Debug/net8.0/TypeConversion.dll
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/TypeConversion/TypeConversion/bin/Debug/net8.0/TypeConversion.pdb
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/TypeConversion/TypeConversion/obj/Debug/net8.0/TypeConversion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/TypeConversion/TypeConversion/obj/Debug/net8.0/TypeConversion.AssemblyInfoInputs.cache
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/TypeConversion/TypeConversion/obj/Debug/net8.0/TypeConversion.AssemblyInfo.cs
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/TypeConversion/TypeConversion/obj/Debug/net8.0/TypeConversion.csproj.CoreCompileInputs.cache
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/TypeConversion/TypeConversion/obj/Debug/net8.0/TypeConversion.sourcelink.json
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/TypeConversion/TypeConversion/obj/Debug/net8.0/TypeConversion.dll
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/TypeConversion/TypeConversion/obj/Debug/net8.0/refint/TypeConversion.dll
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/TypeConversion/TypeConversion/obj/Debug/net8.0/TypeConversion.pdb
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/TypeConversion/TypeConversion/obj/Debug/net8.0/TypeConversion.genruntimeconfig.cache
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/TypeConversion/TypeConversion/obj/Debug/net8.0/ref/TypeConversion.dll
