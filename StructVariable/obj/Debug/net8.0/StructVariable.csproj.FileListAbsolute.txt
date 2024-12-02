@@ -1,0 +1,15 @@
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/StructVariable/bin/Debug/net8.0/StructVariable
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/StructVariable/bin/Debug/net8.0/StructVariable.deps.json
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/StructVariable/bin/Debug/net8.0/StructVariable.runtimeconfig.json
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/StructVariable/bin/Debug/net8.0/StructVariable.dll
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/StructVariable/bin/Debug/net8.0/StructVariable.pdb
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/StructVariable/obj/Debug/net8.0/StructVariable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/StructVariable/obj/Debug/net8.0/StructVariable.AssemblyInfoInputs.cache
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/StructVariable/obj/Debug/net8.0/StructVariable.AssemblyInfo.cs
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/StructVariable/obj/Debug/net8.0/StructVariable.csproj.CoreCompileInputs.cache
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/StructVariable/obj/Debug/net8.0/StructVariable.sourcelink.json
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/StructVariable/obj/Debug/net8.0/StructVariable.dll
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/StructVariable/obj/Debug/net8.0/refint/StructVariable.dll
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/StructVariable/obj/Debug/net8.0/StructVariable.pdb
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/StructVariable/obj/Debug/net8.0/StructVariable.genruntimeconfig.cache
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/StructVariable/obj/Debug/net8.0/ref/StructVariable.dll
