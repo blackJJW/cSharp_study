@@ -1,0 +1,15 @@
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/UsingStaticClassesDemo/bin/Debug/net8.0/UsingStaticClassesDemo
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/UsingStaticClassesDemo/bin/Debug/net8.0/UsingStaticClassesDemo.deps.json
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/UsingStaticClassesDemo/bin/Debug/net8.0/UsingStaticClassesDemo.runtimeconfig.json
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/UsingStaticClassesDemo/bin/Debug/net8.0/UsingStaticClassesDemo.dll
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/UsingStaticClassesDemo/bin/Debug/net8.0/UsingStaticClassesDemo.pdb
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/UsingStaticClassesDemo/obj/Debug/net8.0/UsingStaticClassesDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/UsingStaticClassesDemo/obj/Debug/net8.0/UsingStaticClassesDemo.AssemblyInfoInputs.cache
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/UsingStaticClassesDemo/obj/Debug/net8.0/UsingStaticClassesDemo.AssemblyInfo.cs
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/UsingStaticClassesDemo/obj/Debug/net8.0/UsingStaticClassesDemo.csproj.CoreCompileInputs.cache
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/UsingStaticClassesDemo/obj/Debug/net8.0/UsingStaticClassesDemo.sourcelink.json
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/UsingStaticClassesDemo/obj/Debug/net8.0/UsingStaticClassesDemo.dll
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/UsingStaticClassesDemo/obj/Debug/net8.0/refint/UsingStaticClassesDemo.dll
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/UsingStaticClassesDemo/obj/Debug/net8.0/UsingStaticClassesDemo.pdb
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/UsingStaticClassesDemo/obj/Debug/net8.0/UsingStaticClassesDemo.genruntimeconfig.cache
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/UsingStaticClassesDemo/obj/Debug/net8.0/ref/UsingStaticClassesDemo.dll
