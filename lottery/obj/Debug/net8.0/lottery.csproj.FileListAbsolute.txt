@@ -1,0 +1,15 @@
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/lottery/bin/Debug/net8.0/lottery
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/lottery/bin/Debug/net8.0/lottery.deps.json
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/lottery/bin/Debug/net8.0/lottery.runtimeconfig.json
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/lottery/bin/Debug/net8.0/lottery.dll
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/lottery/bin/Debug/net8.0/lottery.pdb
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/lottery/obj/Debug/net8.0/lottery.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/lottery/obj/Debug/net8.0/lottery.AssemblyInfoInputs.cache
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/lottery/obj/Debug/net8.0/lottery.AssemblyInfo.cs
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/lottery/obj/Debug/net8.0/lottery.csproj.CoreCompileInputs.cache
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/lottery/obj/Debug/net8.0/lottery.sourcelink.json
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/lottery/obj/Debug/net8.0/lottery.dll
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/lottery/obj/Debug/net8.0/refint/lottery.dll
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/lottery/obj/Debug/net8.0/lottery.pdb
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/lottery/obj/Debug/net8.0/lottery.genruntimeconfig.cache
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/lottery/obj/Debug/net8.0/ref/lottery.dll
