@@ -1,0 +1,15 @@
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/class/bin/Debug/net8.0/class
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/class/bin/Debug/net8.0/class.deps.json
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/class/bin/Debug/net8.0/class.runtimeconfig.json
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/class/bin/Debug/net8.0/class.dll
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/class/bin/Debug/net8.0/class.pdb
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/class/obj/Debug/net8.0/class.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/class/obj/Debug/net8.0/class.AssemblyInfoInputs.cache
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/class/obj/Debug/net8.0/class.AssemblyInfo.cs
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/class/obj/Debug/net8.0/class.csproj.CoreCompileInputs.cache
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/class/obj/Debug/net8.0/class.sourcelink.json
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/class/obj/Debug/net8.0/class.dll
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/class/obj/Debug/net8.0/refint/class.dll
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/class/obj/Debug/net8.0/class.pdb
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/class/obj/Debug/net8.0/class.genruntimeconfig.cache
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/class/obj/Debug/net8.0/ref/class.dll
