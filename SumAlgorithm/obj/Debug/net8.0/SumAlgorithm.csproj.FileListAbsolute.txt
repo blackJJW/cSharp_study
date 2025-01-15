@@ -1,0 +1,15 @@
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/SumAlgorithm/bin/Debug/net8.0/SumAlgorithm
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/SumAlgorithm/bin/Debug/net8.0/SumAlgorithm.deps.json
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/SumAlgorithm/bin/Debug/net8.0/SumAlgorithm.runtimeconfig.json
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/SumAlgorithm/bin/Debug/net8.0/SumAlgorithm.dll
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/SumAlgorithm/bin/Debug/net8.0/SumAlgorithm.pdb
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/SumAlgorithm/obj/Debug/net8.0/SumAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/SumAlgorithm/obj/Debug/net8.0/SumAlgorithm.AssemblyInfoInputs.cache
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/SumAlgorithm/obj/Debug/net8.0/SumAlgorithm.AssemblyInfo.cs
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/SumAlgorithm/obj/Debug/net8.0/SumAlgorithm.csproj.CoreCompileInputs.cache
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/SumAlgorithm/obj/Debug/net8.0/SumAlgorithm.sourcelink.json
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/SumAlgorithm/obj/Debug/net8.0/SumAlgorithm.dll
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/SumAlgorithm/obj/Debug/net8.0/refint/SumAlgorithm.dll
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/SumAlgorithm/obj/Debug/net8.0/SumAlgorithm.pdb
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/SumAlgorithm/obj/Debug/net8.0/SumAlgorithm.genruntimeconfig.cache
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/SumAlgorithm/obj/Debug/net8.0/ref/SumAlgorithm.dll
