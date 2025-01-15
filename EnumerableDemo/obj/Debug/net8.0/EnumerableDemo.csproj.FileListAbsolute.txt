@@ -1,0 +1,15 @@
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/EnumerableDemo/bin/Debug/net8.0/EnumerableDemo
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/EnumerableDemo/bin/Debug/net8.0/EnumerableDemo.deps.json
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/EnumerableDemo/bin/Debug/net8.0/EnumerableDemo.runtimeconfig.json
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/EnumerableDemo/bin/Debug/net8.0/EnumerableDemo.dll
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/EnumerableDemo/bin/Debug/net8.0/EnumerableDemo.pdb
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/EnumerableDemo/obj/Debug/net8.0/EnumerableDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/EnumerableDemo/obj/Debug/net8.0/EnumerableDemo.AssemblyInfoInputs.cache
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/EnumerableDemo/obj/Debug/net8.0/EnumerableDemo.AssemblyInfo.cs
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/EnumerableDemo/obj/Debug/net8.0/EnumerableDemo.csproj.CoreCompileInputs.cache
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/EnumerableDemo/obj/Debug/net8.0/EnumerableDemo.sourcelink.json
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/EnumerableDemo/obj/Debug/net8.0/EnumerableDemo.dll
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/EnumerableDemo/obj/Debug/net8.0/refint/EnumerableDemo.dll
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/EnumerableDemo/obj/Debug/net8.0/EnumerableDemo.pdb
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/EnumerableDemo/obj/Debug/net8.0/EnumerableDemo.genruntimeconfig.cache
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/EnumerableDemo/obj/Debug/net8.0/ref/EnumerableDemo.dll
