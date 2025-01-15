@@ -1,0 +1,15 @@
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/LinqCount/bin/Debug/net8.0/LinqCount
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/LinqCount/bin/Debug/net8.0/LinqCount.deps.json
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/LinqCount/bin/Debug/net8.0/LinqCount.runtimeconfig.json
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/LinqCount/bin/Debug/net8.0/LinqCount.dll
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/LinqCount/bin/Debug/net8.0/LinqCount.pdb
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/LinqCount/obj/Debug/net8.0/LinqCount.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/LinqCount/obj/Debug/net8.0/LinqCount.AssemblyInfoInputs.cache
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/LinqCount/obj/Debug/net8.0/LinqCount.AssemblyInfo.cs
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/LinqCount/obj/Debug/net8.0/LinqCount.csproj.CoreCompileInputs.cache
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/LinqCount/obj/Debug/net8.0/LinqCount.sourcelink.json
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/LinqCount/obj/Debug/net8.0/LinqCount.dll
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/LinqCount/obj/Debug/net8.0/refint/LinqCount.dll
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/LinqCount/obj/Debug/net8.0/LinqCount.pdb
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/LinqCount/obj/Debug/net8.0/LinqCount.genruntimeconfig.cache
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/LinqCount/obj/Debug/net8.0/ref/LinqCount.dll
