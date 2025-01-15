@@ -1,0 +1,15 @@
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/LinqAverage/obj/Debug/net8.0/LinqAverage.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/LinqAverage/obj/Debug/net8.0/LinqAverage.AssemblyInfoInputs.cache
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/LinqAverage/obj/Debug/net8.0/LinqAverage.AssemblyInfo.cs
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/LinqAverage/obj/Debug/net8.0/LinqAverage.csproj.CoreCompileInputs.cache
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/LinqAverage/obj/Debug/net8.0/LinqAverage.sourcelink.json
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/LinqAverage/bin/Debug/net8.0/LinqAverage
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/LinqAverage/bin/Debug/net8.0/LinqAverage.deps.json
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/LinqAverage/bin/Debug/net8.0/LinqAverage.runtimeconfig.json
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/LinqAverage/bin/Debug/net8.0/LinqAverage.dll
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/LinqAverage/bin/Debug/net8.0/LinqAverage.pdb
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/LinqAverage/obj/Debug/net8.0/LinqAverage.dll
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/LinqAverage/obj/Debug/net8.0/refint/LinqAverage.dll
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/LinqAverage/obj/Debug/net8.0/LinqAverage.pdb
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/LinqAverage/obj/Debug/net8.0/LinqAverage.genruntimeconfig.cache
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/LinqAverage/obj/Debug/net8.0/ref/LinqAverage.dll
