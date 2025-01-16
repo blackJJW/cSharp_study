@@ -1,0 +1,15 @@
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/ObjectNote/obj/Debug/net8.0/ObjectNote.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/ObjectNote/obj/Debug/net8.0/ObjectNote.AssemblyInfoInputs.cache
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/ObjectNote/obj/Debug/net8.0/ObjectNote.AssemblyInfo.cs
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/ObjectNote/obj/Debug/net8.0/ObjectNote.csproj.CoreCompileInputs.cache
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/ObjectNote/obj/Debug/net8.0/ObjectNote.sourcelink.json
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/ObjectNote/bin/Debug/net8.0/ObjectNote
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/ObjectNote/bin/Debug/net8.0/ObjectNote.deps.json
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/ObjectNote/bin/Debug/net8.0/ObjectNote.runtimeconfig.json
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/ObjectNote/bin/Debug/net8.0/ObjectNote.dll
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/ObjectNote/bin/Debug/net8.0/ObjectNote.pdb
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/ObjectNote/obj/Debug/net8.0/ObjectNote.dll
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/ObjectNote/obj/Debug/net8.0/refint/ObjectNote.dll
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/ObjectNote/obj/Debug/net8.0/ObjectNote.pdb
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/ObjectNote/obj/Debug/net8.0/ObjectNote.genruntimeconfig.cache
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/ObjectNote/obj/Debug/net8.0/ref/ObjectNote.dll
