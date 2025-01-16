@@ -1,0 +1,15 @@
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/NameSpace/bin/Debug/net8.0/NameSpace
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/NameSpace/bin/Debug/net8.0/NameSpace.deps.json
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/NameSpace/bin/Debug/net8.0/NameSpace.runtimeconfig.json
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/NameSpace/bin/Debug/net8.0/NameSpace.dll
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/NameSpace/bin/Debug/net8.0/NameSpace.pdb
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/NameSpace/obj/Debug/net8.0/NameSpace.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/NameSpace/obj/Debug/net8.0/NameSpace.AssemblyInfoInputs.cache
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/NameSpace/obj/Debug/net8.0/NameSpace.AssemblyInfo.cs
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/NameSpace/obj/Debug/net8.0/NameSpace.csproj.CoreCompileInputs.cache
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/NameSpace/obj/Debug/net8.0/NameSpace.sourcelink.json
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/NameSpace/obj/Debug/net8.0/NameSpace.dll
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/NameSpace/obj/Debug/net8.0/refint/NameSpace.dll
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/NameSpace/obj/Debug/net8.0/NameSpace.pdb
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/NameSpace/obj/Debug/net8.0/NameSpace.genruntimeconfig.cache
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/NameSpace/obj/Debug/net8.0/ref/NameSpace.dll
