@@ -1,0 +1,15 @@
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/CountAlgorithm/bin/Debug/net8.0/CountAlgorithm
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/CountAlgorithm/bin/Debug/net8.0/CountAlgorithm.deps.json
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/CountAlgorithm/bin/Debug/net8.0/CountAlgorithm.runtimeconfig.json
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/CountAlgorithm/bin/Debug/net8.0/CountAlgorithm.dll
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/CountAlgorithm/bin/Debug/net8.0/CountAlgorithm.pdb
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/CountAlgorithm/obj/Debug/net8.0/CountAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/CountAlgorithm/obj/Debug/net8.0/CountAlgorithm.AssemblyInfoInputs.cache
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/CountAlgorithm/obj/Debug/net8.0/CountAlgorithm.AssemblyInfo.cs
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/CountAlgorithm/obj/Debug/net8.0/CountAlgorithm.csproj.CoreCompileInputs.cache
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/CountAlgorithm/obj/Debug/net8.0/CountAlgorithm.sourcelink.json
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/CountAlgorithm/obj/Debug/net8.0/CountAlgorithm.dll
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/CountAlgorithm/obj/Debug/net8.0/refint/CountAlgorithm.dll
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/CountAlgorithm/obj/Debug/net8.0/CountAlgorithm.pdb
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/CountAlgorithm/obj/Debug/net8.0/CountAlgorithm.genruntimeconfig.cache
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/CountAlgorithm/obj/Debug/net8.0/ref/CountAlgorithm.dll
