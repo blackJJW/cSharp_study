@@ -1,0 +1,15 @@
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/ConstructorDestructor/bin/Debug/net8.0/ConstructorDestructor
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/ConstructorDestructor/bin/Debug/net8.0/ConstructorDestructor.deps.json
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/ConstructorDestructor/bin/Debug/net8.0/ConstructorDestructor.runtimeconfig.json
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/ConstructorDestructor/bin/Debug/net8.0/ConstructorDestructor.dll
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/ConstructorDestructor/bin/Debug/net8.0/ConstructorDestructor.pdb
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/ConstructorDestructor/obj/Debug/net8.0/ConstructorDestructor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/ConstructorDestructor/obj/Debug/net8.0/ConstructorDestructor.AssemblyInfoInputs.cache
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/ConstructorDestructor/obj/Debug/net8.0/ConstructorDestructor.AssemblyInfo.cs
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/ConstructorDestructor/obj/Debug/net8.0/ConstructorDestructor.csproj.CoreCompileInputs.cache
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/ConstructorDestructor/obj/Debug/net8.0/ConstructorDestructor.sourcelink.json
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/ConstructorDestructor/obj/Debug/net8.0/ConstructorDestructor.dll
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/ConstructorDestructor/obj/Debug/net8.0/refint/ConstructorDestructor.dll
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/ConstructorDestructor/obj/Debug/net8.0/ConstructorDestructor.pdb
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/ConstructorDestructor/obj/Debug/net8.0/ConstructorDestructor.genruntimeconfig.cache
+/Users/jjw-macbook/Desktop/MyFolder/programs/cSharp_study/ConstructorDestructor/obj/Debug/net8.0/ref/ConstructorDestructor.dll
